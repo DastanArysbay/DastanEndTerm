@@ -18,9 +18,7 @@ http.createServer(function (request, response) {
     if( filePath == './img/gallery/study') {
         filePath = './img/gallery/study.jpg';
     }
-    if( filePath == './img/gallery/study') {
-        filePath = './img/gallery/study.jpg';
-    }
+
     if( filePath == './video/memes') {
         filePath = './video/students/memes.mp4';
     }
