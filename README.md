@@ -19,9 +19,14 @@ On terminal i wrote  some commands to running server:
 
 Terminal said:
 [nodemon] 2.0.7
+
 [nodemon] to restart at any time, enter `rs`
+
 [nodemon] watching path(s): *.*
+
 [nodemon] watching extensions: js,mjs,json
+
 [nodemon] starting `node app.js`
+
 Server running at http://127.0.0.1:3000/
 <----------------------------------------------------------------->
