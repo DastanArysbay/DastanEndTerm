@@ -1,5 +1,5 @@
 # DastanEndTerm
-Node.js<-----------> without express
+Node.js WITHOUT express
 
 <----------------------------------------------------------------->
 
@@ -12,7 +12,7 @@ On terminal i wrote  some commands to running server:
 
 1.  cd Desktop
 2.  cd DastanEndTerm
-3.  3  ls (to see files in 'DastanEndTerm')
+3.  ls (to see files in 'DastanEndTerm')
 4.  nodemon app.js
 
 <----------------------------------------------------------------->
